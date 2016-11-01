@@ -1,8 +1,5 @@
 # Self Bot Version 2.5
 
-# نحوه نصب کردن بر روی سرور
-
-# به ترتیب بزنید
 #Installation
 ### Install dependencies.
 ### Tested on Ubuntu 14.04.
